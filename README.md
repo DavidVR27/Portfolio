@@ -1,3 +1,3 @@
-## My Personal Portfolio
+# Portfolio
 
 Made with Hugo
