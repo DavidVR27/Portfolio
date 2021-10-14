@@ -1,3 +1,3 @@
 # Portfolio
 
-Prototype. 
+Prototype. Not finished yet.
